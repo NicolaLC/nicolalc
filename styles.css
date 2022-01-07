@@ -555,7 +555,7 @@
   opacity: 0;
   text-transform: uppercase;
   font-size: 0.75rem;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
   max-height: 100%;
   overflow: auto;
 }
@@ -705,7 +705,7 @@
   height: calc(100% - 3rem);
   width: calc(100% - 3rem);
   background-color: black;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
 }
 .default-theme .nicaos #console::-webkit-scrollbar {
   width: 10px;
@@ -2049,7 +2049,7 @@
   opacity: 0;
   text-transform: uppercase;
   font-size: 0.75rem;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
   max-height: 100%;
   overflow: auto;
 }
@@ -2199,7 +2199,7 @@
   height: calc(100% - 3rem);
   width: calc(100% - 3rem);
   background-color: black;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
 }
 .pink-theme .nicaos #console::-webkit-scrollbar {
   width: 10px;
@@ -3543,7 +3543,7 @@
   opacity: 0;
   text-transform: uppercase;
   font-size: 0.75rem;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
   max-height: 100%;
   overflow: auto;
 }
@@ -3693,7 +3693,7 @@
   height: calc(100% - 3rem);
   width: calc(100% - 3rem);
   background-color: black;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
 }
 .sunset-theme .nicaos #console::-webkit-scrollbar {
   width: 10px;
@@ -5037,7 +5037,7 @@
   opacity: 0;
   text-transform: uppercase;
   font-size: 0.75rem;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
   max-height: 100%;
   overflow: auto;
 }
@@ -5187,7 +5187,7 @@
   height: calc(100% - 3rem);
   width: calc(100% - 3rem);
   background-color: black;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
 }
 .elegant-theme .nicaos #console::-webkit-scrollbar {
   width: 10px;
@@ -6531,7 +6531,7 @@
   opacity: 0;
   text-transform: uppercase;
   font-size: 0.75rem;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
   max-height: 100%;
   overflow: auto;
 }
@@ -6681,7 +6681,7 @@
   height: calc(100% - 3rem);
   width: calc(100% - 3rem);
   background-color: black;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
 }
 .vintage-theme .nicaos #console::-webkit-scrollbar {
   width: 10px;
@@ -8025,7 +8025,7 @@
   opacity: 0;
   text-transform: uppercase;
   font-size: 0.75rem;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
   max-height: 100%;
   overflow: auto;
 }
@@ -8175,7 +8175,7 @@
   height: calc(100% - 3rem);
   width: calc(100% - 3rem);
   background-color: black;
-  font-family: "Clacon", "sans-serif" !important;
+  font-family: "clacon", "sans-serif" !important;
 }
 .paper-theme .nicaos #console::-webkit-scrollbar {
   width: 10px;
