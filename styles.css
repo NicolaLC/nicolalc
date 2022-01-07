@@ -52,7 +52,7 @@
 }
 @font-face {
   font-family: "clacon";
-  src: url('Clacon.ttf') format("truetype");
+  src: url('clacon.ttf') format("truetype");
   font-weight: 400;
   font-style: normal;
 }
