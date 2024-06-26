@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nicola Castellani</h1>
-<h3 align="center">A passionate frontend developer from Italy, dreaming to become a UI Tech</h3>
+<h3 align="center">I am a passionate Senior Frontend Engineer that loves to work with web and game technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolalc&label=Profile%20views&color=0e75b6&style=flat" alt="nicolalc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amazingsurpr1se" target="blank"><img src="https://img.shields.io/twitter/follow/amazingsurpr1se?logo=twitter&style=for-the-badge" alt="amazingsurpr1se" /></a> </p>
 
-- 🔭 I’m currently working on [Eternal Dragons](https://www.eternaldragons.com/)
+- 🔭 I’m currently working on [Equixly Dashboard](https://equixly.com/) as a Sr. Frontend Engineer
 
 - 🌱 I’m currently learning **Google UX Design Professional Certificate**
 
 - 👨‍💻 All of my projects are available at [https://nicolalc.github.io/nicolalc/](https://nicolalc.github.io/nicolalc/)
 
-- 💬 Ask me about **React, Angular, Unity, Figma**
+- 💬 Ask me about **React, Angular, Unity, Figma,Design patterns.**
 
 - 📫 How to reach me **nicolacastellanidev@gmail.com**
 
