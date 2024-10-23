@@ -3986,7 +3986,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelement"](122, "br");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](123, " The school itself gives me a lot of fun and experience with programming, but I've decided to study more at the ");
+            _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](123, " The school itself gave me a lot of fun and experience with programming, but I've decided to study more at the ");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](124, "app-link", 22);
 
