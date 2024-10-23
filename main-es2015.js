@@ -2024,7 +2024,7 @@ WelcomeComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_5_
         _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](120, ", and creating my first programs ");
         _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelement"](121, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelement"](122, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](123, " The school itself gives me a lot of fun and experience with programming, but I've decided to study more at the ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](123, " The school itself gave me a lot of fun and experience with programming, but I've decided to study more at the ");
         _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](124, "app-link", 22);
         _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](125, "University of Verona");
         _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]();
